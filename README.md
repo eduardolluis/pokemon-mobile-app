@@ -1,16 +1,3 @@
-# riverpod_state_management
+<img width="409" height="859" alt="image" src="https://github.com/user-attachments/assets/a0e475d9-00b0-4f46-9e59-79b692040864" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="409" height="859" alt="image" src="https://github.com/user-attachments/assets/6ddfe4b9-10fb-4dcd-93f0-9d60f87f1460" />
